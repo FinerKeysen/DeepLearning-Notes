@@ -1,5 +1,5 @@
 ---
-title: blogs/Tensorflow框架基础之滑动平均模型 
+title: tensorflow学习记录/Tensorflow框架基础之滑动平均模型 
 tags: tensorflow
 grammar_cjkRuby: true
 ---

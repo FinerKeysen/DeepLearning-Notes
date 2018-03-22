@@ -1,5 +1,4 @@
-# blogs
-个人博客
+# BLOGS
 
 github markdown插入Latex方法
 ```

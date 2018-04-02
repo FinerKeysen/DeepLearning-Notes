@@ -4,8 +4,9 @@
 
 [wanggao_1990：Caffe添加自定义的层 ](https://blog.csdn.net/wanggao_1990/article/details/78863669)
 
-在使用 `Caffe` 过程中经常会有这样的需求：已有 `Layer` 不符合我的应用场景；我需要这样这样的功能，原版代码没有实现；或者已经实现但效率太低，我有更好的实现。
+[BVLC：Developing new layers](https://github.com/BVLC/caffe/wiki/Development)
 
+在使用 `Caffe` 过程中经常会有这样的需求：已有 `Layer` 不符合我的应用场景；我需要这样这样的功能，原版代码没有实现；或者已经实现但效率太低，我有更好的实现。
 
 #### 方案一：简单粗暴的解法——偷天换日
 

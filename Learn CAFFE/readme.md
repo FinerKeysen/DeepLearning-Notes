@@ -2,11 +2,12 @@
 
 [卜居：Caffe 增加自定义 Layer 及其 ProtoBuffer 参数](https://blog.csdn.net/kkk584520/article/details/52721838)
 
-一般过程可参考：
+一般过程可参考  
 [wanggao_1990：Caffe添加自定义的层 ](https://blog.csdn.net/wanggao_1990/article/details/78863669)
+
 [官方BVLC：Developing new layers](https://github.com/BVLC/caffe/wiki/Development)
 
-具体方法可参考
+具体方法可参考  
 [langb2014：caffe添加PrecisionRecallLosslayer层（一）](https://blog.csdn.net/langb2014/article/details/50489305)
 
 [langb2014：系列博客-caffe如何自定义网络以及自定义层（python）](https://blog.csdn.net/langb2014/article/details/53081911)

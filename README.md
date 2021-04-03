@@ -1,14 +1,16 @@
 # DeepLearning Collections Note
 
-==update on 3d, Apri, 2021==
+`update on 3d, Apri, 2021`
 
 > awesome repositories
 
-## personal  notes
+## 🏹personal  notes
+
+- 
 
 ## 💾数据集
 
-- [libhand](https://github.com/libhand/libhand)，an open-source permissively licensed portable library for rendering articulations of ==human hand==.
+- [libhand](https://github.com/libhand/libhand)，an open-source permissively licensed portable library for rendering articulations of `human hand`.
 
 ## 📚教程
 
@@ -21,16 +23,16 @@
   - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)，The "Python Machine Learning (2nd edition)" book code repository and info resource
   - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)，Jupyter notebooks for the code samples of the book "Deep Learning with Python"
   - [nndl.github.io](https://github.com/nndl/nndl.github.io)，《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-  - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)，Deep Learning Book Chinese ==Translation==
+  - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)，Deep Learning Book Chinese `Translation`
 - Courses
   - [LeeML-Notes](https://github.com/datawhalechina/leeml-notes)，李宏毅老师的[机器学习视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)是机器学习领域经典的中文视频之一，也被称为中文世界中最好的机器学习视频.
-  - [machine-learning-course](https://github.com/instillai/machine-learning-course)，Machine Learning ==Course== with ==Python==
+  - [machine-learning-course](https://github.com/instillai/machine-learning-course)，Machine Learning `Course `with `Python`
   - [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course)，Simple and ready-to-use tutorials for TensorFlow
 - Collections
-  - [Deep-Learning-TensorFlow](https://github.com/gabrieleangeletti/Deep-Learning-TensorFlow)，a collection of various ==Deep Learning algorithms== implemented using the [TensorFlow](http://www.tensorflow.org/) library.
-  - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)，==TensorFlow== Tutorial and Examples for Beginners (support TF v1 & v2)
+  - [Deep-Learning-TensorFlow](https://github.com/gabrieleangeletti/Deep-Learning-TensorFlow)，a collection of various `Deep Learning algorithms` implemented using the [TensorFlow](http://www.tensorflow.org/) library.
+  - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)，`TensorFlow `Tutorial and Examples for Beginners (support TF v1 & v2)
 - Cheatsheets
-  - [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)，VIP ==cheatsheets== for Stanford's CS 229 ==Machine Learning==
+  - [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)，VIP `cheatsheets `for Stanford's CS 229 `Machine Learning`
   - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)，Essential Cheat Sheets for deep learning and machine learning researchers
 - 
 
@@ -38,12 +40,12 @@
 
 - [AiLearning](https://github.com/apachecn/AiLearning)，AI学习路线，如ML、DL、NLP
 - [CDCS](https://github.com/geekinglcq/CDCS)，中国数据竞赛优胜解集锦
-- [PreView](https://github.com/poier/PreView)，在我们的CVPR 2018论文“通过预测不同的视图学习姿势特定表示形式”中提出的==半监督方法==的代码
+- [PreView](https://github.com/poier/PreView)，在我们的CVPR 2018论文“通过预测不同的视图学习姿势特定表示形式”中提出的`半监督方法`的代码
 - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)，Awesome papers about Generative Adversarial Networks. Majority of papers are related to Image Translation.
 - [Hand-Human-Pose-Papers](https://github.com/TerenceCYJ/Hand-Human-Pose-Papers)，Notes of state-of-the-arts Papers on Hand Pose Estimation, Human Pose Estimation
 
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)，语义分割的paper及开源代码
-- [Resources] [MachineLearning](https://github.com/allmachinelearning/MachineLearning)，**机器学习资料**
+- [Resources] [MachineLearning](https://github.com/allmachinelearning/MachineLearning)，机器学习资料
 - 学习笔记
   - [Dr.Sure](https://github.com/wangqingbaidu/Dr.Sure)，DeepLearning学习笔记以及Tensorflow、Pytorch的使用心得笔记。博主有收集一些数据集。
 
@@ -86,7 +88,7 @@
   - [SENet-Tensorflow](https://github.com/taki0112/SENet-Tensorflow)，tensorflow实现，Simple Tensorflow implementation of "Squeeze and Excitation Networks" using Cifar10 (ResNeXt, Inception-v4, Inception-resnet-v2)
 - **[ Mask_RCNN](https://github.com/matterport/Mask_RCNN)**，Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 
-## 场景
+## 🔆场景
 
 - Semantic Image Segmentation
   - DeepLab
@@ -113,7 +115,7 @@
   - [3D] [RG] [hand_pose_action](https://github.com/guiggh/hand_pose_action)，Dataset and code for the paper "First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations", CVPR 2018.
   - [2D] [hand & body] [convolutional-pose-machines-tensorflow](https://github.com/timctho/convolutional-pose-machines-tensorflow)，This is the **Tensorflow** implementation of [Convolutional Pose Machines](https://github.com/shihenw/convolutional-pose-machines-release), one of the state-of-the-art models for **2D body and hand pose estimation**.
 
-## 应用
+## 🎯应用
 
 - 自动驾驶车辆
   - [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles)，Curated List of Self-Driving Cars and Autonomous Vehicles Resources

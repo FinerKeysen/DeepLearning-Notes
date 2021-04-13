@@ -48,6 +48,7 @@
 - [Resources] [MachineLearning](https://github.com/allmachinelearning/MachineLearning)，机器学习资料
 - 学习笔记
   - [Dr.Sure](https://github.com/wangqingbaidu/Dr.Sure)，DeepLearning学习笔记以及Tensorflow、Pytorch的使用心得笔记。博主有收集一些数据集。
+  - [HanDong1587](https://handong1587.github.io/index.html)，丰富的资源合集
 
 ## 🎨工具
 

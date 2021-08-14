@@ -24,6 +24,7 @@
   - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)，Jupyter notebooks for the code samples of the book "Deep Learning with Python"
   - [nndl.github.io](https://github.com/nndl/nndl.github.io)，《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
   - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)，Deep Learning Book Chinese `Translation`
+  - [The fastai book](https://github.com/fastai/fastbook), published as Jupyter Notebooks. 对深度学习，[fastai](https://docs.fast.ai/)，以及`PyTorch`的介绍
 - Courses
   - [LeeML-Notes](https://github.com/datawhalechina/leeml-notes)，李宏毅老师的[机器学习视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)是机器学习领域经典的中文视频之一，也被称为中文世界中最好的机器学习视频.
   - [machine-learning-course](https://github.com/instillai/machine-learning-course)，Machine Learning `Course `with `Python`
